@@ -1,0 +1,8 @@
+server:
+  port: 9911
+spring:
+  application:
+    name: template-project
+  profiles:
+    active: dev
+#线上环境一定得记得改成prod！！！
